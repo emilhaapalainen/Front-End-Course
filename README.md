@@ -11,4 +11,5 @@ To run locally, just download the repository and open the html file, or use VSC 
 
 To deploy with Github Pages, create a new repository and name it username.github.io. Clone this repository and push it to the newly created repository. Github will automatically create a github page for the repository. Another option is to use the npm module called gh-pages and create a deployment script in package.json. 
 
-Site: https://emilhaapalainen.github.io/bird_gallery/
+Deployed site: https://emilhaapalainen.github.io/bird_gallery/
+Video link: https://streamable.com/tyrub7
